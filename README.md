@@ -2,6 +2,9 @@
 
 A small landing page that listens on port 80 and lets other local apps register themselves as clickable links.
 
+<img width="1135" height="762" alt="image" src="https://github.com/user-attachments/assets/ee1ac1a1-306b-4e92-b1a1-937013e6e959" />
+
+
 ## Run
 
 ```bash
