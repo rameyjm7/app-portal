@@ -1,0 +1,36 @@
+[
+  {
+    "created_at": "2026-06-28T20:05:32+00:00",
+    "description": "Live SDR spectrum and waterfall UI",
+    "host": "127.0.0.1",
+    "id": "sdr-shark",
+    "name": "SDR Shark",
+    "path": "/",
+    "port": 3000,
+    "tags": [
+      "sdr",
+      "spectrum",
+      "waterfall"
+    ],
+    "updated_at": "2026-06-28T20:05:32+00:00",
+    "url": "http://127.0.0.1:3000/",
+    "use_portal_host": true
+  },
+  {
+    "created_at": "2026-06-28T19:02:07+00:00",
+    "description": "Signal Hound VSG25A browser control console",
+    "host": "127.0.0.1",
+    "id": "vsg25a-control",
+    "name": "VSG25A Control",
+    "path": "/",
+    "port": 5173,
+    "tags": [
+      "sdr",
+      "rf",
+      "vsg25a"
+    ],
+    "updated_at": "2026-06-28T19:58:37+00:00",
+    "url": "http://127.0.0.1:5173/",
+    "use_portal_host": true
+  }
+]
